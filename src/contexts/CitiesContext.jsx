@@ -6,7 +6,7 @@ import {
   useCallback,
 } from "react";
 
-const BASE_URL = "http://localhost:8000";
+const BASE_URL = "https://my-json-server.typicode.com/Saumo05/fakeApi3";
 
 const CitiesContext = createContext();
 //CUSTOM PROVIDER
