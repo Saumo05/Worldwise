@@ -72,7 +72,9 @@ function CitiesProvider({ children }) {
     async function fetchCities() {
       dispatch({ type: "loading" });
       try {
-        const res = await fetch(`${BASE_URL}/cities`);
+        const res = await fetch(
+          `$https://my-json-server.typicode.com/Saumo05/fakeApi3/cities`
+        );
         const data = await res.json();
 
         dispatch({ type: "cities/loaded", payload: data });
@@ -92,7 +94,9 @@ function CitiesProvider({ children }) {
       if (Number(id) === currentCity.id) return;
       dispatch({ type: "loading" });
       try {
-        const res = await fetch(`${BASE_URL}/cities/${id}`);
+        const res = await fetch(
+          `$https://my-json-server.typicode.com/Saumo05/fakeApi3/cities/${id}`
+        );
         const data = await res.json();
 
         dispatch({ type: "city/loaded", payload: data });
@@ -110,13 +114,16 @@ function CitiesProvider({ children }) {
   async function createCity(newCity) {
     dispatch({ type: "loading" });
     try {
-      const res = await fetch(`${BASE_URL}/cities`, {
-        method: "POST",
-        body: JSON.stringify(newCity),
-        headers: {
-          "Content-Type": "application/json",
-        },
-      });
+      const res = await fetch(
+        `https://my-json-server.typicode.com/Saumo05/fakeApi3/cities`,
+        {
+          method: "POST",
+          body: JSON.stringify(newCity),
+          headers: {
+            "Content-Type": "application/json",
+          },
+        }
+      );
       const data = await res.json();
 
       dispatch({ type: "city/created", payload: data });
@@ -128,9 +135,12 @@ function CitiesProvider({ children }) {
   async function deleteCity(id) {
     dispatch({ type: "loading" });
     try {
-      await fetch(`${BASE_URL}/cities/${id}`, {
-        method: "POST",
-      });
+      await fetch(
+        `https://my-json-server.typicode.com/Saumo05/fakeApi3/cities/${id}`,
+        {
+          method: "POST",
+        }
+      );
 
       dispatch({ type: "city/deleted", payload: id });
     } catch {
