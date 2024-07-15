@@ -1,18 +1,254 @@
-{
-  "cities": [
-    {
-      "id": "e586",
-      "cityName": [
-        "New Market"
-      ],
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-07-04T18:49:41.000Z",
-      "notes": "Very Good",
-      "position": {
-        "lat": "22.557933946996826",
-        "lng": "88.35548400878908"
-      }
-    },
-  ]
-}
+[
+  {
+    "id": "4fc4",
+    "cityName": [
+      "Carretera de Valderrodilla"
+    ],
+    "country": "Spain",
+    "emoji": "🇪🇸",
+    "date": "2024-06-18T17:12:12.766Z",
+    "notes": "",
+    "position": {
+      "lat": "41.52910540539748",
+      "lng": "-2.8564453125000004"
+    }
+  },
+  {
+    "id": "48e8",
+    "cityName": [
+      "Vallejo deTermuñoz"
+    ],
+    "country": "Spain",
+    "emoji": "🇪🇸",
+    "date": "2024-06-18T17:23:33.109Z",
+    "notes": "",
+    "position": {
+      "lat": "41.14738873581261",
+      "lng": "-2.1124941863287066"
+    }
+  },
+  {
+    "id": "6250",
+    "cityName": [
+      "Las Pilas"
+    ],
+    "country": "Spain",
+    "emoji": "🇪🇸",
+    "date": "2024-06-18T17:24:20.394Z",
+    "notes": "",
+    "position": {
+      "lat": "41.93662852289048",
+      "lng": "-2.9896062141042323"
+    }
+  },
+  {
+    "id": "e6f7",
+    "cityName": [
+      "মঙ্গলকোট"
+    ],
+    "country": "India",
+    "emoji": "🇮🇳",
+    "date": "2024-06-18T17:24:25.968Z",
+    "notes": "",
+    "position": {
+      "lat": "23.545380987208233",
+      "lng": "87.93291410736974"
+    }
+  },
+  {
+    "id": "74b6",
+    "cityName": [
+      "Alto de la Cabeza"
+    ],
+    "country": "Spain",
+    "emoji": "🇪🇸",
+    "date": "2024-06-18T17:29:04.607Z",
+    "notes": "",
+    "position": {
+      "lat": "40.73263084690935",
+      "lng": "-2.6830931633577397"
+    }
+  },
+  {
+    "id": "4fa9",
+    "cityName": [
+      "Tuloko bidea"
+    ],
+    "country": "France",
+    "emoji": "🇫🇷",
+    "date": "2024-06-18T17:29:08.888Z",
+    "notes": "",
+    "position": {
+      "lat": "43.19769982997556",
+      "lng": "-1.3222790604749959"
+    }
+  },
+  {
+    "id": "6812",
+    "cityName": [
+      "Buenaventura"
+    ],
+    "country": "Spain",
+    "emoji": "🇪🇸",
+    "date": "2024-06-18T18:40:02.858Z",
+    "notes": "",
+    "position": {
+      "lat": "40.16534324137652",
+      "lng": "-4.855957031250001"
+    }
+  },
+  {
+    "id": "a75f",
+    "cityName": [
+      "Alcácer do Sal (Santa Maria do Castelo e Santiago) e Santa Susana"
+    ],
+    "country": "Portugal",
+    "emoji": "🇵🇹",
+    "date": "2024-06-18T18:40:15.762Z",
+    "notes": "",
+    "position": {
+      "lat": "38.27561004516841",
+      "lng": "-8.481445312500002"
+    }
+  },
+  {
+    "id": "4b14",
+    "cityName": [
+      "N’Guigmi"
+    ],
+    "country": "Niger",
+    "emoji": "🇳🇪",
+    "date": "2024-06-18T19:33:52.394Z",
+    "notes": "",
+    "position": {
+      "lat": "16.45863672806336",
+      "lng": "13.700018024726935"
+    }
+  },
+  {
+    "id": "dbd5",
+    "cityName": [
+      "Las Suertes del Boral"
+    ],
+    "country": "Spain",
+    "emoji": "🇪🇸",
+    "date": "2024-06-22T20:54:20.984Z",
+    "notes": "",
+    "position": {
+      "lat": "42.066653293872925",
+      "lng": "-0.09206861982786309"
+    }
+  },
+  {
+    "id": "2930",
+    "cityName": [
+      "JVG"
+    ],
+    "country": "Spain",
+    "emoji": "🇪🇸",
+    "date": "2024-07-15T16:21:55.794Z",
+    "notes": "ljwebffjkrbejlrbgejtbg",
+    "position": {
+      "lat": "38.91218112480076",
+      "lng": "-3.4936523437500004"
+    }
+  },
+  {
+    "id": "9912",
+    "cityName": [
+      "Poulo dos Campos"
+    ],
+    "country": "Spain",
+    "emoji": "🇪🇸",
+    "date": "2024-07-15T18:45:30.528Z",
+    "notes": "",
+    "position": {
+      "lat": "42.36045198557439",
+      "lng": "-6.96533203125"
+    }
+  },
+  {
+    "id": "d16b",
+    "cityName": [
+      "Sendurai - Pudhuvettakudi - Veppur - Eraiyur Road"
+    ],
+    "country": "India",
+    "emoji": "🇮🇳",
+    "date": "2024-07-15T18:45:56.877Z",
+    "notes": "Funny",
+    "position": {
+      "lat": "11.256690922069433",
+      "lng": "79.16198730468751"
+    }
+  },
+  {
+    "id": "0d86",
+    "cityName": [
+      "Maniktala"
+    ],
+    "country": "India",
+    "emoji": "🇮🇳",
+    "date": "2024-06-20T18:47:48.000Z",
+    "notes": "Good",
+    "position": {
+      "lat": "22.59169201536668",
+      "lng": "88.38243484497072"
+    }
+  },
+  {
+    "id": "cc35",
+    "cityName": [
+      "Kolpingkreuz Giesel"
+    ],
+    "country": "Germany",
+    "emoji": "🇩🇪",
+    "date": "2024-07-15T18:48:21.464Z",
+    "notes": "Good",
+    "position": {
+      "lat": "50.50237469523982",
+      "lng": "9.580078125"
+    }
+  },
+  {
+    "id": "e586",
+    "cityName": [
+      "New Market"
+    ],
+    "country": "India",
+    "emoji": "🇮🇳",
+    "date": "2024-07-04T18:49:41.000Z",
+    "notes": "Very Good",
+    "position": {
+      "lat": "22.557933946996826",
+      "lng": "88.35548400878908"
+    }
+  },
+  {
+    "id": "b94e",
+    "cityName": [
+      "Kallakkurichi"
+    ],
+    "country": "India",
+    "emoji": "🇮🇳",
+    "date": "2024-07-15T18:53:05.043Z",
+    "notes": "",
+    "position": {
+      "lat": "11.652767923843912",
+      "lng": "79.09332275390626"
+    }
+  },
+  {
+    "id": "2cbc",
+    "cityName": [
+      "Via Romana Lamego-Viseu"
+    ],
+    "country": "Portugal",
+    "emoji": "🇵🇹",
+    "date": "2024-07-15T20:30:22.622Z",
+    "notes": "",
+    "position": {
+      "lat": "40.93289801208861",
+      "lng": "-7.778320312500001"
+    }
+  }
+]
