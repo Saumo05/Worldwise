@@ -1,7 +1,18 @@
 {
   "cities": [
     {
-     
-    }
+      "id": "e586",
+      "cityName": [
+        "New Market"
+      ],
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-07-04T18:49:41.000Z",
+      "notes": "Very Good",
+      "position": {
+        "lat": "22.557933946996826",
+        "lng": "88.35548400878908"
+      }
+    },
   ]
 }
